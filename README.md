@@ -10,7 +10,7 @@
 
 ## |Test
 
-<img src="https://user-images.githubusercontent.com/57350752/116883645-ceb8fd80-ac60-11eb-965d-77bf6883463c.gif" width="1000" height="700">
+<!--img src="https://user-images.githubusercontent.com/57350752/116883645-ceb8fd80-ac60-11eb-965d-77bf6883463c.gif" width="1000" height="700"-->
 
 ![ydlidar_g2](https://user-images.githubusercontent.com/57350752/116883645-ceb8fd80-ac60-11eb-965d-77bf6883463c.gif)
 
