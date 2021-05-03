@@ -10,5 +10,6 @@
 
 ## |Test
 
-![ydlidar_g2](https://user-images.githubusercontent.com/57350752/116883645-ceb8fd80-ac60-11eb-965d-77bf6883463c.gif)
+![ydlidar_g2](https://user-images.githubusercontent.com/57350752/116883645-ceb8fd80-ac60-11eb-965d-77bf6883463c.gif){: width="100%" height="100%"}
+
 
